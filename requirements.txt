@@ -1,0 +1,15 @@
+bcrypt
+blinker
+cffi
+click
+colorama
+cryptography
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+mysql-connector-python
+pycparser
+setuptools
+Werkzeug
+wheel
